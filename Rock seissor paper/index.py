@@ -9,7 +9,8 @@ def game(name):
     choose = choose.upper()
     list = ["ROCK" , "SCISSOR" , "PAPER"]
     randomChoose = random.choice(list)
-    ans=("COMPUTER CHOOSE : " ,randomChoose)
+    
+    print("COMPUTER CHOOSE : " ,randomChoose)
     
     if(choose=="ROCK" and randomChoose=="ROCK"):
         ans=("TRY AGAIN!")

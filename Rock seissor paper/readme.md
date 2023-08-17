@@ -1,0 +1,1 @@
+Question Link = "https://masai-school.notion.site/S2-D1-Training-Brief-Assignment-Rock-Paper-Scissor-1a4699fe80ef4a198272b55901a00322?pvs=4"
